@@ -19,7 +19,7 @@ function setup() {
 
 function draw() {
     background(bg);
-    rect(200, 200, 100, 100);
+    //rect(200, 200, 100, 100);
     //button1.position(windowWidth/6, 100);
 }
 
